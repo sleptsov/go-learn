@@ -1,1 +1,1 @@
-***GO server***
+**Learning GO**
